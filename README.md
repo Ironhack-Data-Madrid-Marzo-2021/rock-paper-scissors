@@ -10,7 +10,7 @@ In the exercise, you will practice user defined functions through creating a gam
 
 Here you will find two jupyter notebooks: 01-rock-paper-scissors & 02-rock-paper-scissors-lizard-spock. First, you will create a simple version in the first file, then, you will extend that same game adding more variables.
 
-## Deliverables
+## Deliverables   
 
 - `01-rock-paper-scissors.ipynb`. 
 - `02-rock-paper-scissors-lizard-spock.ipynb`.
